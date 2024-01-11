@@ -1,5 +1,4 @@
 # Ordenador de Carpetas
----
 
 Este programa en Python te permite copiar archivos de video desde carpetas de capítulos de una serie a una carpeta de destino.
 
